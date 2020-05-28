@@ -1,6 +1,8 @@
-# flutter_audio_recorder
+# flutter_audio_recorder_v2
 
 [![pub package](https://img.shields.io/pub/v/chengguo_audio_recorder.svg)](https://pub.dartlang.org/packages/chengguo_audio_recorder)
+
+**I just updated the Kotlin version**
 
 A flutter plugin for audio record.
 
